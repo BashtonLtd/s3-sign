@@ -1,2 +1,2 @@
-#!/usr/bin/sh
+#!/bin/sh
 python -m s3sign "$@"

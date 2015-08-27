@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='s3-sign',
-    version='0.1',
+    version='0.2',
     description='Generates pre-signed URLs for S3.',
     author='Raymond Butcher',
     author_email='ray@bashton.com',
